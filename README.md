@@ -1,8 +1,9 @@
-Custom object detection
+## Custom object detection
 
 ### Train
 
-Training code `train_yolov5.ipynb` is a bit modifed from []()
+Training code `train_yolov5.ipynb` is modifed from [this code](https://github.com/spmallick/learnopencv/blob/master/Custom-Object-Detection-Training-using-YOLOv5/Custom_Object_Detection_using_YOLOv5.ipynb)
+
 Reference : https://learnopencv.com/custom-object-detection-training-using-yolov5/#Conclusion--
 
 Initial directory structure
